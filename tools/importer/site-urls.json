@@ -1,0 +1,44 @@
+{
+  "originUrl": "https://www.spark.co.nz",
+  "aborted": false,
+  "urls": [
+    {
+      "url": "https://validate.perfdrive.com/ab466d675e06052c21f7cc4df3656c91/?ssa=d9db4ecd-8e06-4068-aea0-b9193c91f0c7&ssb=65230213361&ssc=https%3A%2F%2Fwww.spark.co.nz%2Fhelp%2Faccount&ssi=0ed6bac6-cv5f-4abf-8198-3f82a8afe34c&ssk=botmanager_support@radware.com&ssm=93874914543478021102636231476112&ssn=79c9a69621c5759eed6e5f5098e3f05c9baceef2192a-1f17-4e6c-8e34e4&sso=f8638e93-0092afbc29ef6784ca7a84efbafff6d47f3fbe794b99c2ac&ssp=12461564321757449463175746411662212&ssq=64773920162067479696801620923171720800680&ssr=MjAuMTYxLjgwLjIxMA==&sst=node&ssu=&ssv=&ssw=&ssx=eyJfX3V6bWYiOiI3ZjkwMDBlZWYyMTkyYS0xZjE3LTRlNmMtOGU5My0wMDkyYWZiYzI5ZWYxLTE3NTc0MDE2MjEyOTgwLTAwMGU1MmNiODBhZmQyY2I1ODAxMCIsInV6bXgiOiI3ZjkwMDBmOTRkZmEzMy1mYjllLTRlMzktYTVjMi0yYTU0ODVlM2U4YmYxLTE3NTc0MDE2MjEyOTgwLTIyMGZmYTQyY2JkNzM5ZGQxMCIsInJkIjoic3BhcmsuY28ubnoifQ==",
+      "source": "MANUAL",
+      "targetPath": "/ab466d675e06052c21f7cc4df3656c91",
+      "id": "180a60639be5a2bf2d80f323d97664c172df9f41"
+    },
+    {
+      "url": "https://www.spark.co.nz/help",
+      "source": "MANUAL",
+      "targetPath": "/help",
+      "id": "4dae84b2eaaccf7efa3fe74e6f37222bf6fd97c4"
+    },
+    {
+      "url": "https://www.spark.co.nz/help/mobileandmobilebroadband",
+      "source": "MANUAL",
+      "targetPath": "/help/mobileandmobilebroadband",
+      "id": "22bf32a8b4704656a67935f1d74f72a08ff4b969"
+    }
+  ],
+  "lastCrawled": null,
+  "crawlOptions": {
+    "timeout": 64800000,
+    "inclusionPatterns": [],
+    "exclusionPatterns": [],
+    "limit": 100,
+    "sameDomain": true,
+    "keepHash": false,
+    "strategy": "manual",
+    "strategiesAttempted": [
+      "MANUAL"
+    ]
+  },
+  "extractionErrors": [
+    {
+      "message": "resource crawl error: Url https://www.spark.co.nz/help/account: 302 Moved Temporarily Redirect: https://validate.perfdrive.com/ab466d675e06052c21f7cc4df3656c91/?ssa=d9db4ecd-8e06-4068-aea0-b9193c91f0c7&ssb=65230213361&ssc=https%3A%2F%2Fwww.spark.co.nz%2Fhelp%2Faccount&ssi=0ed6bac6-cv5f-4abf-8198-3f82a8afe34c&ssk=botmanager_support@radware.com&ssm=93874914543478021102636231476112&ssn=79c9a69621c5759eed6e5f5098e3f05c9baceef2192a-1f17-4e6c-8e34e4&sso=f8638e93-0092afbc29ef6784ca7a84efbafff6d47f3fbe794b99c2ac&ssp=12461564321757449463175746411662212&ssq=64773920162067479696801620923171720800680&ssr=MjAuMTYxLjgwLjIxMA==&sst=node&ssu=&ssv=&ssw=&ssx=eyJfX3V6bWYiOiI3ZjkwMDBlZWYyMTkyYS0xZjE3LTRlNmMtOGU5My0wMDkyYWZiYzI5ZWYxLTE3NTc0MDE2MjEyOTgwLTAwMGU1MmNiODBhZmQyY2I1ODAxMCIsInV6bXgiOiI3ZjkwMDBmOTRkZmEzMy1mYjllLTRlMzktYTVjMi0yYTU0ODVlM2U4YmYxLTE3NTc0MDE2MjEyOTgwLTIyMGZmYTQyY2JkNzM5ZGQxMCIsInJkIjoic3BhcmsuY28ubnoifQ==",
+      "url": "https://www.spark.co.nz/help/account"
+    }
+  ],
+  "errorCountMessage": "{\"E_302\":1}"
+}
